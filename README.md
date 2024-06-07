@@ -1,1 +1,1 @@
-This program visualises sorting algorithms using SDL2 and SDL2 image.
+Instructions provided while the program is running.
